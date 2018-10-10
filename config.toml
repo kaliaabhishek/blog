@@ -2,7 +2,7 @@ baseurl                  = "/"               # Your domain name. Must end with "
 languageCode             = "en-us"
 title                    = "Abhishek Kalia"
 theme                    = "sam"
-pygmentsStyle            = "fruity"                     # https://help.farbox.com/pygments.html
+pygmentsStyle            = "native"                     # https://help.farbox.com/pygments.html
 pygmentsCodefences       = true
 # googleAnalytics        = "xxx"             # Tracking code, eg. "UA-111111111-1"
 disqusShortname = "abhishekkalia"
@@ -27,13 +27,13 @@ disqusShortname = "abhishekkalia"
 
 [[params.mainMenu]]
     link = "/posts"
-    text = "writing"
+    text = "I code"
 
 [[params.mainMenu]]
     link = "/gallery"
-    text = "gallery"
+    text = "I design"
 
 [[params.mainMenu]]
     link = "/about"
-    text = "who is sam?"
+    text = "Who am I?"
     
